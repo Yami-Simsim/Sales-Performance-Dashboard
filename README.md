@@ -1,29 +1,27 @@
 # Sales Performance Dashboard (Excel Project)
 
-This project analyzes sales performance for an office supplies company using Microsoft Excel.  
-It explores key metrics across time, product categories, customer segments, and regions.
+This project analyzes office supply sales using Microsoft Excel to uncover trends in revenue, profit, quantity, and customer behavior. It was designed to answer key business questions for stakeholders like Sales Managers and Regional Directors.
 
-## 📊 Key Insights
-- Year-over-year trends in revenue, quantity, and profit
-- Most profitable and least profitable products
-- Customer segment contribution by region
-- Quantity vs. Profit per Unit analysis
+## 📊 What It Covers
+- Year-over-year sales performance
+- Best and worst performing product categories
+- Regional sales distribution
+- Customer segments by value
 
 ## 🛠 Tools Used
-- Microsoft Excel (Pivot Tables, Charts, Calculated Fields)
-- Manual Dashboard Design
-- PDF Report Summary
+- Microsoft Excel (Pivot Tables, Charts, Formulas)
+- Manual dashboard design
+- PDF reporting
 
-## 📁 Files Included
-- `Sales_Performance_Dashboard.xlsx` – Interactive dashboard & analysis
-- `Project_Report.pdf` – Detailed summary with all answers
-- `Sales_Performance_Dashboard.png` – Visual preview
+## 📁 Files
+- `Sales_Performance_Dashboard.xlsx` – Dashboard + data
+- `Project_Report.pdf` – Final polished project write-up
+- `Sales_Performance_Dashboard.pdf` – Dashboard Preview
 
-## 📌 Project Goals
-- Provide insights for Sales and Marketing teams
-- Support decision-making with data storytelling
-- Build portfolio-ready analytical work
+
+## 📌 Objective
+To turn raw sales data into actionable insights through a clean, professional dashboard for business decision-making.
 
 ---
-
-📬 Let me know what you think, or feel free to suggest improvements!
+🧠 Created by Osama Ali | [LinkedIn](www.linkedin.com/in/osama-ali-a39bb5287)  
+📬 Feel free to share feedback or connect!
